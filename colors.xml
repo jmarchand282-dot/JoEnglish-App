@@ -1,0 +1,7 @@
+<resources>
+    <color name="blue">#155EEF</color>
+    <color name="blue_dark">#0B3DAA</color>
+    <color name="bg">#F6F9FF</color>
+    <color name="text">#14213D</color>
+    <color name="muted">#667085</color>
+</resources>
